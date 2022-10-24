@@ -1,0 +1,4 @@
+i+j where 
+ i = 1 fby i*2; 
+ j = 1 sby 2;
+end
